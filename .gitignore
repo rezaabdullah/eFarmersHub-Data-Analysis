@@ -3,4 +3,4 @@ input
 output
 script/.env
 script/log
-script/efarmershub_etl copy.ipynb
+script/efarmershub_etl_original.ipynb
